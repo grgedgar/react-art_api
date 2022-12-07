@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "React Art Api App",
+  "name": "The Metropolitan Museum of Art Collection API",
   "icons": [
     {
       "src": "favicon.ico",
