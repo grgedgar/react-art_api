@@ -1,0 +1,8 @@
+  body {
+    background-image: linear-gradient(to right, #23293E, #1D1D1D 20%);
+    font-family: 'Roboto', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #c4c4c4;
+  }
+  
