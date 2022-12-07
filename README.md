@@ -5,7 +5,7 @@ Shows the list of art items of The Metropolitan Museum of Art Collection using [
 
 ## Installation 
 
-Requires [Node.js](https://https://nodejs.org/) to run. 
+Requires [Node.js](https://nodejs.org/) to run. 
 You can type the following command to check whether you already have Node.js installed: 
 
 ```sh
