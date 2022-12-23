@@ -1,6 +1,8 @@
 
 # Art API
 
+Static version is available at: [https://grgedgar.github.io/react_art-api/](https://grgedgar.github.io/react_art-api/)
+
 Shows the list of art items of The Metropolitan Museum of Art Collection using [their official API](https://metmuseum.github.io/).
 
 ## Installation 
