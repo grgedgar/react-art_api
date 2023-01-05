@@ -1,8 +1,7 @@
 
 # Art API
 
-Static version is available at:
-Check it online at: [https://gentle-pothos-820d80.netlify.app](https://gentle-pothos-820d80.netlify.app)
+Online version is available at: [https://gentle-pothos-820d80.netlify.app](https://gentle-pothos-820d80.netlify.app)
 
 Shows the list of art items of The Metropolitan Museum of Art Collection using [their official API](https://metmuseum.github.io/).
 
